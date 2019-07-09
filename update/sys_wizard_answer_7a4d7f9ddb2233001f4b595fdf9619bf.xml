@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>cmdbext</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>cmdbext</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">ef77d35913223300027879d96144b0e1</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2019-07-09 13:03:20</sys_created_on>
+        <sys_id>7a4d7f9ddb2233001f4b595fdf9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdbext</sys_name>
+        <sys_package display_value="tpp1" source="sn_tpp1">d8fcb79ddb2233001f4b595fdf96196f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tpp1">d8fcb79ddb2233001f4b595fdf96196f</sys_scope>
+        <sys_update_name>sys_wizard_answer_7a4d7f9ddb2233001f4b595fdf9619bf</sys_update_name>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2019-07-09 13:03:20</sys_updated_on>
+        <table/>
+        <target_url>sn_tpp1_cmdbext.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

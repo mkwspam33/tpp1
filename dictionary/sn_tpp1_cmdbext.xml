@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="cmdbext" max_length="40" name="sn_tpp1_cmdbext" type="collection">
+        <element label="Custom stuff" max_length="32" name="custom_stuff" reference="cmdb_ci" type="reference"/>
+        <element label="DT" max_length="40" name="dt" type="glide_date_time"/>
+        <element label="Number" max_length="40" name="number" type="counter"/>
+    </element>
+</database>
